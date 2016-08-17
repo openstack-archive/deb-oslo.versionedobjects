@@ -1,0 +1,8 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 08 Aug 2016 17:58:09 +0000
+Reviewed-on: https://review.openstack.org/350918
+Project: openstack/deb-oslo.versionedobjects
+Branch: refs/heads/master
