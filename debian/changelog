@@ -7,6 +7,10 @@ python-oslo.versionedobjects (1.13.0-1) UNRELEASED; urgency=medium
   [ Corey Bryant ]
   * d/control: Bump python-oslo.utils BD to >= 3.15.0.
 
+  [ Ondřej Nový ]
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
+
  -- Corey Bryant <corey.bryant@canonical.com>  Tue, 02 Aug 2016 14:19:40 -0400
 
 python-oslo.versionedobjects (1.9.1-1) experimental; urgency=medium
