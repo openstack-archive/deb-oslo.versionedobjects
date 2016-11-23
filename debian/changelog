@@ -10,6 +10,7 @@ python-oslo.versionedobjects (1.13.0-1) UNRELEASED; urgency=medium
   [ Ondřej Nový ]
   * d/s/options: extend-diff-ignore of .gitreview
   * d/control: Using OpenStack's Gerrit as VCS URLs.
+  * Bumped debhelper compat version to 10
 
  -- Corey Bryant <corey.bryant@canonical.com>  Tue, 02 Aug 2016 14:19:40 -0400
 
